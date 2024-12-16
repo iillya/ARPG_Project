@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"../../../arm64/UnrealGame/Development/GBARuntime/Module.GBARuntime.cpp.o",
+		"../../../arm64/UnrealGame/Development/GBARuntime/Module.GBARuntime.cpp.o",
+		"../../../x64/UnrealGame/Development/GBARuntime/Module.GBARuntime.cpp.o",
+		"../../../x64/UnrealGame/Development/GBARuntime/Module.GBARuntime.cpp.o"
+	]
+}

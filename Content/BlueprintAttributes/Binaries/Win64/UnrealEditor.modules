@@ -1,0 +1,11 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"BlueprintAttributes": "UnrealEditor-BlueprintAttributes.dll",
+		"BlueprintAttributesDeveloper": "UnrealEditor-BlueprintAttributesDeveloper.dll",
+		"BlueprintAttributesEditor": "UnrealEditor-BlueprintAttributesEditor.dll",
+		"BlueprintAttributesEditorCommon": "UnrealEditor-BlueprintAttributesEditorCommon.dll",
+		"BlueprintAttributesScaffold": "UnrealEditor-BlueprintAttributesScaffold.dll"
+	}
+}
